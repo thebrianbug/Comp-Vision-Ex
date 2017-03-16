@@ -41,9 +41,3 @@ ax.plot_surface(xx, yy, z_cub, rstride=1, cstride=1, cmap='hot')
 
 plt.show()  
 
-
-
-
-
-
-
